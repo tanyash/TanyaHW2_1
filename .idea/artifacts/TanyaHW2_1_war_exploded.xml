@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="TanyaHW2_1:war exploded">
+    <output-path>$PROJECT_DIR$/target/TanyaHW2_1</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="TanyaHW2_1/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="TanyaHW2_1" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: javax.xml.bind:jaxb-api:2.2.9" />
+          <element id="library" level="project" name="Maven: com.sun.xml.bind:jaxb-impl:2.2-promoted-b65" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
